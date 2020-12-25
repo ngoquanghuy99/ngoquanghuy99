@@ -6,4 +6,3 @@
 - 🖤 I'm interested in Natural Language Processing, Deep Learning, Natural Language Generation, Computational Linguistics
 - 📩 Reach me via [email](ngoquanghuy1999lp@gmail.com), [linkedin](https://www.linkedin.com/in/ngoquanghuy99/)
 
-[![ngoquanghuy99's github stats](https://github-readme-stats.vercel.app/api?username=ngoquanghuy99&count_private=true&show_icons=true&theme=buefy)](https://github.com/ngoquanghuy99)
