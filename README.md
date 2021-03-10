@@ -1,6 +1,5 @@
 ### Hi, my name is Huy and I love languages
 
-![](https://komarev.com/ghpvc/?username=ngoquanghuy99)
 
 - 😅 Currently, I’m an **NLP enthusiast** in *Hanoi, Vietnam*
 - 🖤 I'm interested in Natural Language Processing, Deep Learning, Natural Language Generation, Computational Linguistics
